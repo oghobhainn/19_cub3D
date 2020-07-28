@@ -2,6 +2,11 @@
 
 42's first graphical project ; the concept of raycasting applied to a (basic) replica of Wolfenstein3D.
 
+## Screenshots
+
+![Example of map](https://github.com/oghobhainn/cub3D/blob/master/screenshot.bmp)
+<!-- [With bonuses] -->;
+
 ## Useful resources
 
 * [How to Minilibx](https://harm-smits.github.io/42docs/libs/minilibx) - First thing first : How to use the minilibx
