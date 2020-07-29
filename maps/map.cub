@@ -1,4 +1,4 @@
-R 1200 1200           
+R 800 600            
 NO ./textures/bluestone.xpm         
 SO ./textures/redbrick.xpm    
 WE ./textures/wood.xpm
